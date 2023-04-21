@@ -1,0 +1,13 @@
+.search-bar {
+    background-color: inherit;
+}
+
+.search-bar:focus {
+    background-color: inherit;
+    color: inherit;
+}
+
+.banner-image {
+    margin-left: -10rem;
+    width: 119rem
+}

@@ -1,0 +1,23 @@
+.main-page {
+    overflow: hidden;
+    background-color: rgb(15, 15, 15);
+}
+
+.logo {
+    width: 15rem
+}
+
+.link-logo {
+    padding: 1rem;
+    width: 4rem;
+    color: rgb(177, 177, 177);
+}
+
+.link-logo-text {
+    margin-top: 1.5rem;
+    transform: translateY(-0.5rem);
+    margin-left: -1rem;
+    font-weight: 400;
+    color: rgb(177, 177, 177);
+    text-decoration: none;
+}

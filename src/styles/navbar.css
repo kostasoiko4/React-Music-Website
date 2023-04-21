@@ -1,0 +1,11 @@
+.navbar,
+.navbar-default {
+    background-color: rgb(8, 8, 8);
+    background-image: none !important;
+}
+.navbar-brand {
+    margin-left: 10rem;
+}
+.nav {
+    margin-left: 80rem;
+}

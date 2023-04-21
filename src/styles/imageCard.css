@@ -1,0 +1,38 @@
+.image-card {
+    margin: 1rem;
+    width: 70rem;
+    background-color: inherit;
+    border-color: transparent;
+    cursor: pointer;
+}
+
+.image-card:hover {
+    transition: 0.4s;
+    filter: brightness(120%);
+}
+
+.image-card-header {
+    margin-top: -0.5rem;
+    margin-left: -1rem;
+    margin-right: -1rem;
+}
+
+.image-card-header-image {
+    z-index: 1;
+}
+
+.image-card-title {
+    transform: translateY(-0.5rem);
+    font-weight: 400;
+    font-family: 'Yu Gothic';
+    font-style: oblique;
+    margin-top: 2rem;
+    color: rgb(223, 223, 223);
+}
+
+.image-card-subtitle {
+    margin-top: 1.5rem;
+    transform: translateY(-0.5rem);
+    font-weight: 400;
+    color: rgb(177, 177, 177);
+}

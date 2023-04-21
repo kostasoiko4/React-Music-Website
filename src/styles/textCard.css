@@ -1,0 +1,42 @@
+.text-card {
+    margin: 1rem;
+    width: 70rem;
+    background-color: inherit;
+    border-color: transparent;
+}
+
+.text-card:hover {
+    transition: 0.4s;
+    filter: brightness(120%);
+    box-shadow: 0px 0px 3px 1px rgba(0, 0, 0, 0.11);
+}
+
+.text-card-title {
+    transform: translateY(-0.5rem);
+    font-weight: 400;
+    font-family: 'Yu Gothic';
+    font-style: oblique;
+    color: rgb(223, 223, 223);
+}
+
+.text-card-text {
+    margin-top: 1.5rem;
+    transform: translateY(-0.5rem);
+    font-weight: 400;
+    color: rgb(177, 177, 177);
+}
+
+.text-card-link {
+    margin-top: 1.5rem;
+    transform: translateY(-0.5rem);
+    font-weight: 400;
+    color: rgb(177, 177, 177);
+    text-decoration: none;
+}
+
+.text-card-link:hover {
+    margin-top: 1.5rem;
+    transform: translateY(-0.5rem);
+    font-weight: 400;
+    color: #c92020;
+}
